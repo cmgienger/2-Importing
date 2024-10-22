@@ -33,4 +33,5 @@ Temporary Items
 .apdisk
 
 
-assignment_code/   #move assigned homework out of this files
+#ignore assignment folder
+assignment_code/
